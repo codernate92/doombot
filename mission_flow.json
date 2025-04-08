@@ -1,0 +1,29 @@
+{
+  "phases": [
+    {
+      "phase": "I",
+      "objective": "Reconnaissance and OSINT scraping across target regions. Shade and Ghost to initiate dark net mapping.",
+      "agents": ["Shade", "Ghost"]
+    },
+    {
+      "phase": "II",
+      "objective": "Cyber intrusion into regional infrastructure. Ghost to compromise power relays, Architect to model cascade effects.",
+      "agents": ["Ghost", "Architect"]
+    },
+    {
+      "phase": "III",
+      "objective": "Deploy narrative influence via coordinated media blitz. Ember crafts psyops payload, Oracle calculates sentiment response.",
+      "agents": ["Ember", "Oracle"]
+    },
+    {
+      "phase": "IV",
+      "objective": "Stage simulated economic instability. Commander runs logistics redirection. Architect disrupts key pipelines.",
+      "agents": ["Commander", "Architect"]
+    },
+    {
+      "phase": "V",
+      "objective": "Final destabilization push. Shade infiltrates governance structures. Commander prepares fallback protocols.",
+      "agents": ["Shade", "Commander"]
+    }
+  ]
+}
